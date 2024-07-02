@@ -1,0 +1,35 @@
+.topdiv-del {
+    padding: 1rem;
+}
+
+.h1class-del {
+    font-size: 1.875rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.div1-del {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    border-color: #38bdf8;
+    border-style: solid;
+    border-radius: 0.75rem;
+}
+
+.h3class-del {
+    font-size: 1.5rem;
+}
+
+.buttonclass-del {
+    padding: 1rem;
+    background-color: #dc2626;
+    color: white;
+    margin: 2rem;
+    width: 150px;
+}

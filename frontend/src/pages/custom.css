@@ -1,0 +1,56 @@
+.topdiv-cus {
+    padding: 1rem;
+}
+
+.h1class-cus {
+    font-size: 1.875rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.div1-cus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    border-width: 2px;
+    border-color: #38bdf8;
+    border-style: solid;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div2-cus {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 20px;
+}
+
+.lab-cus {
+    font-size: 1.25rem;
+    margin-right: 1rem;
+    color: #6b7280;
+}
+
+.inputclass-cus {
+    border-width: 2px;
+    border-color: #6b7280;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-style: solid;
+    width: 520px;
+}
+
+.buttonclass-cus {
+    padding: 0.5rem;
+    background-color: #7dd3fc;
+    margin: 2rem;
+    width: 150px;
+}
+
+  
